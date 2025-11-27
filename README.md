@@ -45,7 +45,7 @@ This GitHub profile is new because I lost my previous one, so there's not much t
 <img width="80px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img width="80px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
 ![automq](https://github.com/user-attachments/assets/44a74035-be9f-49f0-8079-a6f670e34717)
-<svg width="80px" padding-right="20px" height="80px" viewBox="0 0 438 273" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="80px" padding-right="20px" height="80px" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M76.5 272H0.5V241.255L139.5 0.5H215.5V142.363L234.5 137.272L313.465 0.5H395.465V145.5L437 217.44L405.5 272H313.465L386.5 145.5H327.535L254.5 272H180V145.5H149.535L76.5 272Z" fill="#2979FF" stroke="#2979FF"/>
 </svg>
 
